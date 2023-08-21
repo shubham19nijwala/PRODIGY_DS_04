@@ -6,6 +6,7 @@ Task Number : 04
 ![download](https://github.com/shubham19nijwala/PRODIGY_DS_04/assets/130289158/e927611a-4b62-4614-a0c5-5c18e7042701)
 
 **Based on the findings from the sentiment analysis of the Flipkart product reviews dataset, we have the following conclusions:**
+
 **1. Sentiment Distribution:**
 Positive Sentiment: There are 86.2% reviews expressing positive sentiment, indicating that a majority of customers had a positive experience with the products they purchased through Flipkart. This suggests that customers were satisfied with the quality, features, and overall performance of the products.
 
