@@ -9,11 +9,11 @@ Task Number : 04
 
 ### **1. Sentiment Distribution:**
 
-**Positive Sentiment**: There are 86.2% reviews expressing positive sentiment, indicating that a majority of customers had a positive experience with the products they purchased through Flipkart. This suggests that customers were satisfied with the quality, features, and overall performance of the products.
+* **Positive Sentiment**: There are 86.2% reviews expressing positive sentiment, indicating that a majority of customers had a positive experience with the products they purchased through Flipkart. This suggests that customers were satisfied with the quality, features, and overall performance of the products.
 
-**Neutral Sentiment**: There are 7.84% reviews with neutral sentiment, indicating that some customers may have had a relatively neutral or mixed experience with the products. This could mean that these customers found the products to be neither exceptionally good nor bad, and they may have provided feedback without expressing strong emotions.
+* **Neutral Sentiment**: There are 7.84% reviews with neutral sentiment, indicating that some customers may have had a relatively neutral or mixed experience with the products. This could mean that these customers found the products to be neither exceptionally good nor bad, and they may have provided feedback without expressing strong emotions.
 
-**Negative Sentiment**: There are 6.01% reviews expressing negative sentiment, suggesting that a portion of customers had a negative experience with certain products they bought from Flipkart. This could be due to issues with product quality, delivery, customer service, or other factors that led to dissatisfaction.
+* **Negative Sentiment**: There are 6.01% reviews expressing negative sentiment, suggesting that a portion of customers had a negative experience with certain products they bought from Flipkart. This could be due to issues with product quality, delivery, customer service, or other factors that led to dissatisfaction.
 
 ### **2. Overall Customer Satisfaction:**
 
