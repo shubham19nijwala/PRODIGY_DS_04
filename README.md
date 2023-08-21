@@ -17,7 +17,7 @@ Task Number : 04
 
 ### **2. Overall Customer Satisfaction:**
 
-The majority of customers (around 94%) provided positive or neutral feedback, indicating a generally positive shopping experience on Flipkart. However, it is essential to address the concerns expressed in the negative reviews to further improve customer satisfaction.
+* The majority of customers (around 94%) provided positive or neutral feedback, indicating a generally positive shopping experience on Flipkart. However, it is essential to address the concerns expressed in the negative reviews to further improve customer satisfaction.
 ### **3. Areas of Improvement:**
 
 * Negative reviews highlight specific areas that need attention, such as product quality, delivery services, or customer support. By analyzing the negative feedback, Flipkart can identify areas that require improvement to enhance overall customer experience and product offerings.
